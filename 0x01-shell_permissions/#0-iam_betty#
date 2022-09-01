@@ -1,0 +1,74 @@
+rcise 0: 
+#!/bin/bash
+su betty
+
+Exercise 1:
+#!/bin/bash 
+id -un
+
+Exercise 2: 
+#!/bin/bash
+id -Gn 
+
+Exercise 3:
+#!/bin/bash 
+chown betty hello 
+
+Exercise 4: 
+#!/bin/bash
+touch hello 
+
+Exercise 5: 
+#!/bin/bash
+chmod u+x hello 
+
+Exercise 6: 
+#!/bin/bash
+chmod ug+x,o+r hello 
+
+Exercise 7: 
+#!/bin/bash
+chmod ugo+x hello 
+
+Exercise 8: 
+#!/bin/bash
+chmod 007 hello 
+
+Exercise 9: 
+#!/bin/bash
+chmod 753 hello 
+
+Exercise 10: 
+#!/bin/bash
+chmod --reference=olleh hello 
+Exercise 11: 
+#!/bin/bash
+chmod -R +X . 
+
+Exercise 12: 
+#!/bin/bash
+mkdir -m 751 my_dir 
+
+Exercise 13: 
+#!/bin/bash
+chgrp school hello 
+
+
+#ADVANCED TASK
+
+Exercise 14: 
+#!/bin/bash
+chown vincent:staff * 
+
+Exercise 15: 
+#!/bin/bash
+chown -h vincent:staff _hello 
+
+Exercise 16: 
+#!/bin/bash
+chown --from=guillaume betty hello 
+
+Exercise 17: 
+#!/bin/bash
+telnet towel.blinkenlights.nl#!/bin/bash
+su betty
