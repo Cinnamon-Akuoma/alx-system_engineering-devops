@@ -1,0 +1,1 @@
+This projext will cover ShellInput and Output redirections. It is a very important concept in System engineering & devops in that it fosters effeciency.
